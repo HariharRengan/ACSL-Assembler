@@ -5,4 +5,4 @@ The assembler accepts an array containing triplets. Each element of those triple
 If there is no Label, leave the first element of the array as a blank string <code>""</code> and make all values strings (e.g. <code>"LOAD"</code> and <code>"-8"</code>)
 An example input is in the <code>main.py</code> file.
 
-ACSL Wiki: <a href=https://www.categories.acsl.org/wiki/index.php?title=Assembly_Language_Programming>https://www.categories.acsl.org/wiki/index.php?title=Assembly_Language_Programming</a>
+ACSL Wiki: <a href=https://www.categories.acsl.org/wiki/index.php?title=Assembly_Language_Programming>categories.acsl.org/wiki/index.php?title=Assembly_Language_Programming</a>
